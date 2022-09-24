@@ -1,9 +1,7 @@
 # Optimal-value-of-K-empirically-in-KNN-model-from-Euclidean-distance.
 The optimal value of K empirically in KNN model. Results  using  a  plot  with  training  and  test  errors
 #![image](https://user-images.githubusercontent.com/29955878/192118413-e7f90aa7-e541-4e0e-97bd-b02f941d6ada.png)
-In this homework, you will learn how to find the optimal value of K empirically in KNN model.
-Show your results using a plot with training and test errors. To solve the problem, you need to
-write a program. Use K = 1, 3, 5, 7, 9.
+
 a)What is Knn? K-nearest neighbor is a non-parametric lazy learning algorithm, used for both
 classification and regression. KNN stores all available cases and classifies new cases based on a similarity
 measure.
