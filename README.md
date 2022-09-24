@@ -20,16 +20,22 @@ c) Some of the applications of Knn are:
 bottom of the figure
 ![image](https://user-images.githubusercontent.com/29955878/192118445-80c4ec55-21be-440a-a8cc-18605ea6da8a.png)
 b)Describe results: With the KNN
+
 Step 01: There is distance is given between two point.symmetric matrics put this into the list
+
 Step 02: Make a data fram by panda
+
 Step 03: Take these data colom wise which is given in the question.
 Class 1: (x_1=0, x_2=1, x_5=5, x_6=6, x_9=7, x_10, x_13, x_14, x_17, x_18)
 Class 2: (x_3, x_4, x_7, x_8, x_11, x_12, x_15, x_16, x_19)
+
 Step 04: Each value need to be access and sorting the dictionary based on key values.Build model
 without library.
+
 Step 05: Ploting with the test and train error.K=4
 (c) Your observation: Kvalue indicates the count of the nearest neighbors. We have to compute
 distances between test points and trained labels points. Updating distance metrics with every iteration
 is computationally expensive, and that’s why KNN is a lazy learning algorithm.
+
 (d) Conclusion: KNN is one of the simplest forms of machine learning algorithms mostly used for
 classification.
